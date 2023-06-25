@@ -20,7 +20,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=foisal404&show_icons=true&count_private=true)  
 
 
-![GitHub metrics](https://metrics.lecoq.io/foisal404)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=foisal404)  
 
