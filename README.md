@@ -5,8 +5,9 @@
 <p align="left">
 </p>
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/foisal46) 
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://foisal-me.web.app/)](https://foisal-me.web.app/)
+ 
+[![Portfolio](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://foisal-me.web.app/)](https://foisal-me.web.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/foisal46) 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
