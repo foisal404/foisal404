@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Foisal Ahmmed Shagor</h1>
 <h3 align="center">A passionate Software developer from Bangladesh</h3>
-<img alt="icon" width="400" height='400' align="right" src='https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif'>
+<img alt="icon" width="400" align="right" src='https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=foisal404&label=Profile%20views&color=0e75b6&style=flat" alt="foisal404" /> </p>
 
 
