@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 👨‍💻 All of my projects are available at [https://foisal-me.web.app/](https://foisal-me.web.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://foisal-me.web.app/)
 
 - 💬 Ask me about **MERN,Programming**
 
 - 📫 How to reach me **foisalahmmed2@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oRBUtYhAdtXlvetb-o0c1MPk9O3TDzWq/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1oRBUtYhAdtXlvetb-o0c1MPk9O3TDzWq/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
