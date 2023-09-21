@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **foisalahmmed2@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GOh01XWL4HSSg7ECqLIiNc_q84me6x7d/view?usp=sharing](https://drive.google.com/file/d/1GOh01XWL4HSSg7ECqLIiNc_q84me6x7d/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1oRBUtYhAdtXlvetb-o0c1MPk9O3TDzWq/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
