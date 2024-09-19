@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://foisal-me.web.app/)
 
-- 💬 Ask me about **MERN,Programming**
+- 💬 Ask me about **Programming**
 
 - 📫 How to reach me **foisalahmmed2@gmail.com**
 
