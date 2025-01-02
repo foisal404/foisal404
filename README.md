@@ -4,15 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=foisal404&label=Profile%20views&color=0e75b6&style=flat" alt="foisal404" /> </p>
 
 
-- 🌱 I’m currently learning **Nextjs**
+
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://foisal-me.web.app/)
 
 - 💬 Ask me about **Programming**
 
 - 📫 How to reach me **foisalahmmed2@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OdsFpXMXZwVxCV25wR4fs2hY4gCthmJe/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
