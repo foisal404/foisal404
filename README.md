@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://foisal-me.web.app/)
 
-- 💬 Ask me about **Programming**
+- 💬 Ask me about **Full-Stack Development (React, Node.js, APIs, Databases) and Problem Solving**
 
 - 📫 How to reach me **foisalahmmed2@gmail.com**
 
