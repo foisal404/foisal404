@@ -36,7 +36,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=foisal404&show_icons=true&theme=tokyonight" alt="github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=foisal404&theme=tokyonight" alt="streak stats" />
-</p>
